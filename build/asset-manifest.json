@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/emi-rai.github.io/static/css/main.a17719ba.css",
-    "main.js": "/emi-rai.github.io/static/js/main.b3cc2f2f.js",
-    "index.html": "/emi-rai.github.io/index.html",
-    "main.a17719ba.css.map": "/emi-rai.github.io/static/css/main.a17719ba.css.map",
-    "main.b3cc2f2f.js.map": "/emi-rai.github.io/static/js/main.b3cc2f2f.js.map"
+    "main.css": "/my-portfolio/static/css/main.a17719ba.css",
+    "main.js": "/my-portfolio/static/js/main.ee84b13b.js",
+    "static/media/ae-auto.gif": "/my-portfolio/static/media/ae-auto.2e732d7d4fe43f5e7f5d.gif",
+    "static/media/ShapeShifters.gif": "/my-portfolio/static/media/ShapeShifters.26dc0bc0fa720ce7e3e0.gif",
+    "static/media/profile.jpeg": "/my-portfolio/static/media/profile.883cd9a96529ee6875f5.jpeg",
+    "static/media/HikeNE.gif": "/my-portfolio/static/media/HikeNE.bf12edcb13301a6c8466.gif",
+    "static/media/hike-the-67.gif": "/my-portfolio/static/media/hike-the-67.c9c5e64d033ca7373418.gif",
+    "static/media/diana_linkedin.jpeg": "/my-portfolio/static/media/diana_linkedin.557f511844a373b4109c.jpeg",
+    "static/media/alix_linkedin.jpeg": "/my-portfolio/static/media/alix_linkedin.e753f957e1da8239e0e2.jpeg",
+    "index.html": "/my-portfolio/index.html",
+    "main.a17719ba.css.map": "/my-portfolio/static/css/main.a17719ba.css.map",
+    "main.ee84b13b.js.map": "/my-portfolio/static/js/main.ee84b13b.js.map"
   },
   "entrypoints": [
     "static/css/main.a17719ba.css",
-    "static/js/main.b3cc2f2f.js"
+    "static/js/main.ee84b13b.js"
   ]
 }
