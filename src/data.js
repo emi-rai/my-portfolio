@@ -15,10 +15,18 @@ export const projects = [
     link: "https://gitlab.com/Alix-de-Pannemaecker/AE-Autos",
   },
   {
-    title: "Hike the 67",
-     subtitle: "Django, HTML, CSS",
+    title: "HikeNE",
+    subtitle: "Flask, Jinja, Bootstrap",
     description:
-      "Keep a blog style log of hikes while tracking progress completing the 67 New England 4000+ footers ",
+      "Journal all your hikes and track your progress with completing hikes. ",
+    image: hikeNE,
+    link: "https://www.youtube.com/watch?v=x7B65BOGUzE",
+  },
+  {
+    title: "Hike the 67",
+    subtitle: "Django, HTML, CSS",
+    description:
+     "Keep a blog style log of hikes while tracking progress completing the 67 New England 4000+ footers ",
     image: hike67,
     link: "https://gitlab.com/emi.rai/hike-the-67",
   },
@@ -29,14 +37,6 @@ export const projects = [
       "Web application for automobile sales, rental, and service business",
     image: aeauto,
     link: "https://gitlab.com/Alix-de-Pannemaecker/AE-Autos",
-  },
-  {
-    title: "HikeNE",
-    subtitle: "Flask, Jinja, Bootstrap",
-    description:
-      "Journal all your hikes and track your progress with completing hikes. ",
-    image: hikeNE,
-    link: "https://www.youtube.com/watch?v=x7B65BOGUzE",
   },
 ];
 
