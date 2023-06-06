@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.766761d3.css",
-    "main.js": "/my-portfolio/static/js/main.f1b44a8d.js",
-    "static/media/ae-auto.gif": "/my-portfolio/static/media/ae-auto.2e732d7d4fe43f5e7f5d.gif",
-    "static/media/ShapeShifters.gif": "/my-portfolio/static/media/ShapeShifters.26dc0bc0fa720ce7e3e0.gif",
-    "static/media/profile.jpeg": "/my-portfolio/static/media/profile.883cd9a96529ee6875f5.jpeg",
-    "static/media/HikeNE.gif": "/my-portfolio/static/media/HikeNE.bf12edcb13301a6c8466.gif",
-    "static/media/hike-the-67.gif": "/my-portfolio/static/media/hike-the-67.c9c5e64d033ca7373418.gif",
-    "static/media/diana_linkedin.jpeg": "/my-portfolio/static/media/diana_linkedin.557f511844a373b4109c.jpeg",
-    "static/media/alix_linkedin.jpeg": "/my-portfolio/static/media/alix_linkedin.e753f957e1da8239e0e2.jpeg",
+    "main.css": "/my-portfolio/static/css/main.4e8cde53.css",
+    "main.js": "/my-portfolio/static/js/main.3a531839.js",
     "index.html": "/my-portfolio/index.html",
-    "main.766761d3.css.map": "/my-portfolio/static/css/main.766761d3.css.map",
-    "main.f1b44a8d.js.map": "/my-portfolio/static/js/main.f1b44a8d.js.map"
+    "main.4e8cde53.css.map": "/my-portfolio/static/css/main.4e8cde53.css.map",
+    "main.3a531839.js.map": "/my-portfolio/static/js/main.3a531839.js.map"
   },
   "entrypoints": [
-    "static/css/main.766761d3.css",
-    "static/js/main.f1b44a8d.js"
+    "static/css/main.4e8cde53.css",
+    "static/js/main.3a531839.js"
   ]
 }
