@@ -31,7 +31,7 @@ export default function About() {
               <img
                 className="object-cover object-center rounded-tl-3xl rounded-tr-3xl rounded-br-3xl rounded-bl-3xl  "
                 alt="hero"
-                src={profile}
+                src="https://i.imgur.com/CXzc0Tn.jpg"
               />
             </div>
           </div>
